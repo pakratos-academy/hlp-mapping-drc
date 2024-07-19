@@ -4,8 +4,8 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://majorluvale.github.io/hlp-mapping/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1_c_GTJEQ8iGhdYwwPlU4ff2zXn8DYJsIEHlfEusx6-Y/edit#gid=0
+- Leaflet Map https://pakratos-academy.github.io/hlp-mapping-drc/
+- Google Sheets template [https://docs.google.com/spreadsheets/d/1_c_GTJEQ8iGhdYwwPlU4ff2zXn8DYJsIEHlfEusx6-Y/edit#gid=0](https://docs.google.com/spreadsheets/d/14-FkzzROf5z0OlGp_hVnUUuF2VAdcZpUmutvvaa05Js/edit?gid=0#gid=0)
 
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
