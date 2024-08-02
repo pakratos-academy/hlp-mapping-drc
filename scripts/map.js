@@ -564,8 +564,8 @@ $(window).on('load', function() {
     if (getPolygonSetting(polygon, '_popupProp') == ''
      && getPolygonSetting(polygon, '_polygonDisplayImages') == 'off') return;
 
-    var countryName = '<h3 style="color:##666666;">' + feature.properties.ADM1_FR + '</h3>';
-    var chair = '<p style="line-height:1.6;">' + feature.properties.PopUp + '</b></p>';
+    var countryName = '<h3 style="color:##666666;">Check if it works' + feature.properties.ADM1_FR + '</h3>';
+    var chair = '<p style="line-height:1.6;">Try if it works' + feature.properties.PopUp + '</b></p>';
     var info = countryName + chair + '<p>';
 
     //var info = '<p>';
